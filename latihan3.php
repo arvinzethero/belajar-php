@@ -5,7 +5,7 @@
 // else if
 // switch
 
-$x = 10;
+$x = 30;
 if( $x < 20 ) {
     echo "Benar";
 } else if( $x == 10 ) {
